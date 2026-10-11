@@ -1,1 +1,27 @@
-# advanced-database-portfolio
+# Advanced Database Systems Portfolio (MIT 8103)
+
+## Selected Case Study: Kasuwa Express
+
+Kasuwa Express is a Nigerian online store based in Abuja. It sells
+phone accessories, fashion items, and home and kitchen products to customers
+across Nigeria. Customers browse products, place orders, pay by card, bank
+transfer or pay on delivery, and receive their items through a dispatch rider
+or logistics partner.
+
+**Users of the database:** customers, store admin, warehouse staff, and the
+delivery coordinator.
+
+**Major data stored:** customers, product categories, products, orders, order
+items, payments, and deliveries.
+
+**Key operations:** register customers, add products, place orders, reduce
+stock after a sale, record payments, track delivery status, and produce sales
+reports (for example best-selling products and sales per state).
+
+## Portfolio contents
+
+- portfolio-1-database-design: ER diagram, schema, normalisation
+- portfolio-2-query-optimisation: SQL queries, execution plans, indexing
+- portfolio-3-transactions-concurrency: transactions, rollback, concurrency
+- portfolio-4-nosql: NoSQL model for the same case study
+- portfolio-5-distributed-cloud: replication, sharding, cloud deployment
