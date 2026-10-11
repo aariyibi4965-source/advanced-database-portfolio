@@ -66,8 +66,8 @@ I created the database in PostgreSQL using pgAdmin, ran schema.sql, then ran
 sample_data.sql. I confirmed the tables exist and contain data using SELECT
 queries.
 
-![Customers data](screenshots/customers-data.png)
-![Products data](screenshots/02-products-data.png)
+![Customers data](screenshots/Customers-Data.png)
+![Products data](screenshots/02-products-Data.png)
 
 ## Challenges and what I learned
 It's my first time designing and creating a database and I've loved the expereince so far.
